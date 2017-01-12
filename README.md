@@ -8,7 +8,7 @@ Download and unzip the RSA-Encryption.zip file. Open Terminal and run the follow
 
 *cd Downloads*
 
-*cd RSA-Encryption*
+*cd RSA-Encryption-master*
 
 *run crypt.py*
 
